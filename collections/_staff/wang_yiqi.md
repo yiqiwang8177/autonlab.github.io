@@ -2,6 +2,7 @@
 layout: homepage
 first_name: Yiqi
 last_name: Wang
-title: Masters Student
-category: student
+title: Research Associate
+image: "/assets/images/wang_yiqi.jpg"
+category: staff
 ---
